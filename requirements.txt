@@ -1,6 +1,4 @@
-pandas
-numpy
+scikit-learn==1.2.2
 seaborn
 matplotlib
 plotly
-scikit-learn
