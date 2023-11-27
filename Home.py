@@ -6,8 +6,17 @@ st.set_page_config(
     page_icon="🏨",
 )
 PATH_Readme = Path("README.md")
+col1, col2, col3 = st.columns(3)
 
-st.image('house.png')
+with col1:
+    st.write(' ')
+
+with col2:
+    st.image('house.png')
+
+with col3:
+    st.write(' ')
+
 
 try:
     st.markdown(PATH_Readme.read_text())
