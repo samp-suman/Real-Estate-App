@@ -1,5 +1,3 @@
-# Real Estate System Project - Team D
-
 > [!IMPORTANT]
 >
 > **Disclaimer:** Scrapped data from 99acres.com for educational purpose only.
