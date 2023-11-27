@@ -7,6 +7,8 @@ st.set_page_config(
 )
 PATH_Readme = Path("README.md")
 
+st.image('house.png')
+
 try:
     st.markdown(PATH_Readme.read_text())
 except FileNotFoundError:
