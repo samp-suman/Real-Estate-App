@@ -6,7 +6,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-st.set_page_config(page_title="Plotting Demo")
+st.set_page_config(page_title="Insights Module")
 
 st.title('Analytics')
 
